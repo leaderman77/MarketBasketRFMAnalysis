@@ -7,9 +7,9 @@ This project employs advanced clustering techniques to analyze a dataset of 38,7
 # Data Set Information
 Attributes:
 
-Member Number: Unique identifier for each customer.
-Item Description: Name of the purchased product.
-Date: Timestamp of the transaction.
+- Member Number: Unique identifier for each customer.
+- Item Description: Name of the purchased product.
+- Date: Timestamp of the transaction.
 # Project Structure
 1. Data Understanding
 Distribution Analysis: Exploring the distribution of key variables.
