@@ -35,7 +35,7 @@ Clustering Techniques Used
 - Evaluation of Clustering Methods: Comparison of clustering methods with a focus on their effectiveness in segmenting the dataset. Agglomerative Clustering was found to be most suitable due to its ability to form well-differentiated customer clusters.
 - Recommendations for Marketing Strategies: Based on the clustering results and the defined customer segments, recommendations for targeted marketing actions are proposed.
 # Repository Contents
-- data/: Scripts for data simulation and instructions for accessing the original dataset.
-- code/: All code files, including Jupyter notebooks and SQL scripts.
-- reports/: Detailed report aimed at marketing strategists, including the UML class diagram and cluster profiles.
+- Scripts for data simulation and instructions for accessing the original dataset.
+- All code files, including Jupyter notebooks and SQL scripts.
+- Detailed report aimed at marketing strategists, including the UML class diagram and cluster profiles.
 - requirements.txt: Required libraries and dependencies to run the project.
